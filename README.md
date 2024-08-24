@@ -204,7 +204,7 @@ func main() {
 ### 🏆GitHub Trophies
 
 <p align="center">
-    <a href="https://github.com/U7P4L-IN">
+    <a href="https://github.com/mafiams16">
           <img width="49%" src="https://github-profile-trophy.vercel.app/?username=U7P4L-IN&theme=radical&no-frame=false&no-bg=true&margin-w=4" />
     <img width="40%" src="https://holopin.me/amajaying3" />
   </a>
