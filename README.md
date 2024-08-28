@@ -36,7 +36,7 @@ type Person struct {
 func main() {
   var me = new(Person)
   
-  me.name     = "MAFIA / YOUCED"
+  me.name     = "MAFIA / YOUCEF"
   me.username = MAFIAMS16"
   me.age      = "26"
   me.job      = "AI developer | Web developer"
